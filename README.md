@@ -49,7 +49,8 @@ Every service that touches client information has signed a business associate ag
 
 ## <img src="icons/book.svg" width="20" height="20"> Also Here
 
-- **[Awesome Technology for Therapists](https://github.com/jc-hackett/awesome-technology-for-therapists)** — a curated list of software for therapists and other mental-health clinicians, with a bias toward open source and privacy
+<img src="icons/sunglasses.svg" width="22" height="12" alt=""> **[Awesome Technology for Therapists](https://github.com/jc-hackett/awesome-technology-for-therapists)** — a curated list of software for therapists and other mental-health clinicians, with a bias toward open source and privacy
+
 - **Texts I Love** — a collection of the books and papers that shaped how I think, in the spirit of *Papers We Love*
 
 ---
