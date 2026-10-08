@@ -1,8 +1,5 @@
 <img src="banner.svg" alt="jeremiah hackett, clinical social worker and builder of tools for therapists" width="100%">
 
-# Jeremiah Hackett
-
-**Licensed Clinical Social Worker · Builder of tools for therapists**
 
 I'm a licensed clinical social worker (Maine and New York) in private practice. 
 
