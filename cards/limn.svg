@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190">
+  <rect x="0.5" y="0.5" width="419" height="189" fill="#FFFFFF" stroke="#525F7F"/>
+  <rect x="0" y="0" width="6" height="190" fill="#0074D4"/>
+  <text x="32" y="56" font-family="Nunito Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="26" font-weight="800" fill="#525F7F">limn</text>
+  <text x="32" y="96" font-family="Nunito Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#3D4660">An electronic medical record for therapists</text>
+  <text x="32" y="120" font-family="Nunito Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#3D4660">in solo practice. limn-os is open source</text>
+  <text x="32" y="144" font-family="Nunito Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="16" fill="#3D4660">and runs on your own machine.</text>
+  <text x="32" y="166" font-family="Nunito Sans, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="700" fill="#0074D4" letter-spacing="1">LIMN.DEV  ·  OPEN SOURCE  ·  SELF-HOSTED</text>
+</svg>
