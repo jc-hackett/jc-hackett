@@ -18,7 +18,7 @@ Earlier this year I used Claude to make my private therapy practice *fully* self
 My small company, where I build software for clinicians in solo private practice.
 
 <a href="https://limn.dev"><img src="cards/limn.svg" alt="limn: an electronic medical record for therapists in solo practice. limn-os is open source and runs on your own machine." width="49%"></a>
-<img src="cards/sovereignboard.svg" alt="SovereignBoard: an Android keyboard that types what you say, sending your voice to a server you trust." width="49%">
+<a href="https://github.com/jc-hackett/sovereignboard"><img src="cards/sovereignboard.svg" alt="SovereignBoard: an Android keyboard that types what you say, sending your voice to a server you trust." width="49%"></a>
 
 ---
 
